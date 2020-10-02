@@ -1,3 +1,3 @@
 # A Racing Bot Game
 
-project with ## Pygame
+project with Pygame
