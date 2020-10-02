@@ -1,3 +1,3 @@
-# pygame
-bot-z (A Racing Bot Game)
-project on pycharm
+# A Racing Bot Game
+
+project with ## Pygame
